@@ -3,7 +3,7 @@
 //  MovieQuiz
 //
 //  Created by Dmitry Batorevich on 09.03.2025.
-//
+
 
 import UIKit
 
